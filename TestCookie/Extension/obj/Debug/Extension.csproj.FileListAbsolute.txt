@@ -1,0 +1,5 @@
+D:\Coding\GitHub\simonleeRepository\TestCookie\Extension\bin\Debug\Extension.dll
+D:\Coding\GitHub\simonleeRepository\TestCookie\Extension\bin\Debug\Extension.pdb
+D:\Coding\GitHub\simonleeRepository\TestCookie\Extension\obj\Debug\Extension.csprojResolveAssemblyReference.cache
+D:\Coding\GitHub\simonleeRepository\TestCookie\Extension\obj\Debug\Extension.dll
+D:\Coding\GitHub\simonleeRepository\TestCookie\Extension\obj\Debug\Extension.pdb

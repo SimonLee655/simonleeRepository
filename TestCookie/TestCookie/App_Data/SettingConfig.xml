@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConfigurationFramework>
+  <ParseDefines>
+    <!-- 參考Configuration中的LoadConfig方法 -->
+  </ParseDefines>
+  <ParseConfigs>
+    <Connections>
+      <Content name="MSSQL" connectionString="" provider="System.Data.SqlClient" />
+      <Content name="MySQL" connectionString="" provider="System.Data.MySqlClient" />
+    </Connections>
+  </ParseConfigs>
+</ConfigurationFramework>

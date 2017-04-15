@@ -10,13 +10,15 @@ namespace TestCookie.Controllers
     {
         public ActionResult Index()
         {
+            Response.Cookies["id"].Value = "SODADM";
             return View();
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+            var x = Request.Cookies["id"].Value;
+            //Response.Cookies
             return View();
         }
 

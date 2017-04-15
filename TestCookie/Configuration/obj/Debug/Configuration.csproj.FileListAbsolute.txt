@@ -1,0 +1,7 @@
+D:\Coding\GitHub\simonleeRepository\TestCookie\Configuration\bin\Debug\Configuration.dll
+D:\Coding\GitHub\simonleeRepository\TestCookie\Configuration\bin\Debug\Configuration.pdb
+D:\Coding\GitHub\simonleeRepository\TestCookie\Configuration\bin\Debug\Extension.dll
+D:\Coding\GitHub\simonleeRepository\TestCookie\Configuration\bin\Debug\Extension.pdb
+D:\Coding\GitHub\simonleeRepository\TestCookie\Configuration\obj\Debug\Configuration.csprojResolveAssemblyReference.cache
+D:\Coding\GitHub\simonleeRepository\TestCookie\Configuration\obj\Debug\Configuration.dll
+D:\Coding\GitHub\simonleeRepository\TestCookie\Configuration\obj\Debug\Configuration.pdb
